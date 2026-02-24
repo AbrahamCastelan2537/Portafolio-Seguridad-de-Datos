@@ -51,7 +51,7 @@ Consiste en suplantar una MAC Address para:
 
 ---
 
-# Capa 3 – Red
+# Capa 3 (Capa de Red)
 
 ## 🔹 Direcciones Lógicas (IP Address)
 - Permiten identificar dispositivos en una red.
